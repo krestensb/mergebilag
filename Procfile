@@ -1,1 +1,1 @@
-web: gunicorn mergebilag.wsgi --log-file -
+web: gunicorn app.app
